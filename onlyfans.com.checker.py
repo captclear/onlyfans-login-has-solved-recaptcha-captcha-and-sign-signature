@@ -261,7 +261,7 @@ response = requests.get("https://onlyfans.com/",verify=False)
 post_data =  {
     "token": CLEARCAPTCHA_API_KEY,
     "sitekey": "6LcvNcwdAAAAAMWAuNRXH74u3QePsEzTm6GEjx0J",
-    "referer":"https://www.onlyfans.com",
+    "referer":"https://onlyfans.com",
     "recaptcha_anchor_size":"invisible",
     "page_title":"OnlyFans",
     "action":"login",
@@ -317,7 +317,7 @@ if responsejson["error"]["code"] == 102 :
     post_data =  {
         "token": CLEARCAPTCHA_API_KEY,
         "sitekey": "6LddGoYgAAAAAHD275rVBjuOYXiofr1u4pFS5lHn",
-        "referer":"https://www.onlyfans.com",
+        "referer":"https://onlyfans.com",
         "recaptcha_anchor_size":"normal",
         "page_title":"OnlyFans",
         "sa":"login"
