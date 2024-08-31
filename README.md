@@ -29,10 +29,7 @@ In the code, I have extracted the js code of the checksum part, so it can be sol
 
 ---
 
-### ⚠️ Important Notice:
-Please ensure that any actions you take comply with [Spotify's Terms of Service](https://www.spotify.com/legal/end-user-agreement/) and [GitHub's Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines). Unauthorized or abusive practices may result in the suspension of your accounts on these platforms. Always use tools and scripts responsibly and within the bounds of the law.
-
-### Disclaimer
+### ⚠️⚠️⚠️ Disclaimer ⚠️⚠️⚠️
 This guide and the accompanying information are provided for educational and informational purposes only. **They are not intended for commercial use**. The author does not endorse or support any use of this information that may violate the terms and conditions of Onlyfans, GitHub, or any other platform mentioned.
 
 By using this guide, you acknowledge that:
